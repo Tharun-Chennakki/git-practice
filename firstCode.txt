@@ -1,1 +1,2 @@
 Hello this is the first place we are working on git
+this line is write for doing the second commit
