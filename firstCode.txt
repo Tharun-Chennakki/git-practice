@@ -1,2 +1,3 @@
 Hello this is the first place we are working on git
 this line is write for doing the second commit
+this line is to check the difference in the lines of the codegit 
